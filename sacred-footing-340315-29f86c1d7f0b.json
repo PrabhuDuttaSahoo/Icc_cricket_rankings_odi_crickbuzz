@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sacred-footing-340315",
+  "private_key_id": "29f86c1d7f0b752e889754ca09f0a3223330308f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCzv/m8MNPmCKG0\nA9ZTrCswZU/Guuht8r5Jhn10sY96/H05IHRvmlV0ts6G2/+arZN/PinYMJAMb/tC\nSRfyAPl+Us1TjkEOQmaPcOC8PrfP9N0igDgwkPBjKgaUtTHq8UhrXt70tMQgWJHF\n5pMrfaaryKJ0tvrvSWLrMZvmh51pY7e+hnvWe/wFpz4qHdwIGElJG6ImB4Jn9QfT\n1L41gw/FtnvxvlfWW5RidblT6zOZEvjusXC7VscrQUoNker2J65/lRBSnAPu3BYa\nx/b2fYAKD+z0HgWREu0zMz7Q1feiDoRrfx+4aPfJqsybShX6TJJ3QPRmH97ocZov\n8G7nBrbzAgMBAAECggEAGPPtuBgdKmyzVKPzD7gxt1exHJjw0DvnpO7/ISvPC8Hb\no7UOL49WDUxIB6+oYEbNWCzUg+xbQDwWvhZwil9j7eCScWbTlXur9NNfggfA3k+9\n7QlYrjaeBbNyqMKDSfwHKM9JleCMQ3iYJUgY0RZHL3IRn1s8Iutl8y7MAijRtiyZ\nPgCNmVbBFgBwaVkbypLQKJQ/T2ogcfWbrDR9UGIYZghEVv6ZVa4m9x/3pK3YkPPJ\nJkm/DInIw1lzT0JzEcnQ9O2lVGJdSnkF1PIejKDavhrNypX0BvluGmPBVfck4VQG\nTKdp3CWhnfKNTPIglX7wZ+tJHGN+BQnjqjbaFhPaiQKBgQDYc8NAXDi8K5eYbnsR\nB3nmziPJoT+VNQf3uTi8mIsAI7NquWpdYVIiW8wv+Th6tVMxaX6+A64ouvUpXDIO\nnKfkFm21mPZuCknO0yceZ8CruUIjRmy3hpJVhHxHI6mCXk/AjnfZHMvIZ0rtCm+d\nALAZbsTlUl/ebwyD5b0okNH5ewKBgQDUl4QuKpjfXLUxl6HN4HZ2rqNNR6DU+7d2\n79kpBlm42/tuZfJzP4lV9s2p4g8bujO3f30krhPWTdS8aRV4zExiTPEiLNmb2nrG\nL4UFjui+Q/neqxQFaailROO5k+t8WzhZJvh4R7Ww6JhswrK+qCA/mzeXnCYYiVe1\n+SpZ3yAS6QKBgQCwsZdzI5Vg7oj68z1dQmgdpKuMPiiEad0OOVJ6il/2Bi7BcYjF\nn9uHlr5RbzXO3dSC4qaHAMQcFbpqQAvQ58saI8D9XFfWrmlf//jQFkwvIrU9zJCV\nJLKyQsuc2xzWAp1CCEsHnj0wZDnC1SEV3mji6gyrUxpVnvttdI583fO6nwKBgQCe\nmsPUpZcT3ViZPSVMMZBwDu5qc2v8OiewJlT/lGtPzV8SCCEP9nEBn3XkrnDTIOIA\nnq7AtNa75ak3P7bzPogmNn0YIBnheuhp/33gnbPqb1B13XC8cQ2O74xuIXtoda3e\nZYKuSeG1sHI3gjJUp54XljetdqO9Xon/i3sbPanyMQKBgQDGWobLuHsK6fjPW4IZ\nQtbNgChl0TF49Sf8465bd8DYuMoIne69G+i6pv0IfHHtkYoNUo7OhZTSTdQ4TUrC\nfK6pyDHPOgfWKZru4EtNHJ6tQ1p9WmkwJ6WYr7UNB6K2nP8QNs+g5xCWmvByYRSu\ne45g4z4tOSCp5eqfPdXox02BLw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cricket-data-pds@sacred-footing-340315.iam.gserviceaccount.com",
+  "client_id": "118133127603186215373",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cricket-data-pds%40sacred-footing-340315.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
